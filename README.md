@@ -4,13 +4,12 @@ This repository contains a machine learning model for breast cancer detection de
 
 Key Features:
 Utilizes Logistic Regression for binary classification of breast tumors
-Achieves [accuracy percentage] accuracy in detecting breast cancer
-Trained and validated on [dataset name, e.g., Wisconsin Breast Cancer Dataset]
+Achieves 98% accuracy in detecting breast cancer
+Trained and validated on Wisconsin Breast Cancer Dataset
 Implements data preprocessing and feature selection techniques
-Includes performance evaluation metrics such as accuracy, precision, recall, and F1-score
+Includes performance evaluation metrics such as Accuracy score
 Visualizations of model performance and feature importance
 This project demonstrates the application of a simple yet effective machine learning algorithm in medical diagnosis, potentially assisting healthcare professionals in early breast cancer detection.
 
 
 The Colab notebook in this repository provides a step-by-step implementation of the model, from data loading and preprocessing to model training, evaluation, and result visualization.
-To use this model or contribute to its development, please refer to the installation and usage instructions in the README file.
