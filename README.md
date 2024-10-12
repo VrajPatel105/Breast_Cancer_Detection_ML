@@ -10,4 +10,7 @@ This repository contains a machine learning model for breast cancer detection de
 - Includes performance evaluation metrics such as **accuracy score** and visualizations of model performance and feature importance.
 - Demonstrates the application of a simple yet effective machine learning algorithm in medical diagnosis, potentially assisting healthcare professionals in early breast cancer detection.
 
+## Dataset
+The model was trained and validated on the publicly available [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
+
 The Colab notebook in this repository provides a step-by-step implementation of the model, from data loading and preprocessing to model training, evaluation, and result visualization.
