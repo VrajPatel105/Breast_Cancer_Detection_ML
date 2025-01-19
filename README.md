@@ -2,7 +2,6 @@
 
 This repository contains a machine learning model for breast cancer detection developed using Google Colab. The model employs logistic regression to accurately classify breast tumors as malignant or benign based on various features extracted from medical imaging data.
 
-
 ## Key Features:
 - Utilizes Logistic Regression for binary classification of breast tumors.
 - Achieves **98% accuracy** in detecting breast cancer.
